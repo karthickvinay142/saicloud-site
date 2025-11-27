@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="64" viewBox="0 0 260 64">
+  <rect width="260" height="64" rx="6" fill="#0d6efd"/>
+  <g transform="translate(12,10)">
+    <rect width="52" height="44" rx="6" fill="#fff" opacity="0.08"/>
+    <path d="M16 10 L40 10 L40 44 L16 44 Z" fill="#fff" opacity="0.95"/>
+  </g>
+  <text x="86" y="40" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#fff" font-weight="700">SAI Cloud Infra</text>
+</svg>
